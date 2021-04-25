@@ -1,3 +1,4 @@
 Bienvenida a git
 Sol Vasquez
  - Vivo en Trujillo pero estoy en Caraz
+ - Programador Movil 
